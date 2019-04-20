@@ -8,3 +8,5 @@ $ git branch
 
 git add .
 添加所有的东西
+如果没有东西,输入下面
+git push --set-upstream origin branch01
