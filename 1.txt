@@ -1,1 +1,10 @@
-22
+建分支
+ git branch
+
+$ git checkout -b branch01
+branch01 是分支名
+
+$ git branch
+
+git add .
+添加所有的东西
